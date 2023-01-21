@@ -1,0 +1,544 @@
+.home__list .date-wrap .name[data-v-572e1e16], .home__list .league-wrap .name[data-v-572e1e16] {
+    font-size: 14px;
+    color: #fff;
+}
+.home__list .date-wrap .name[data-v-572e1e16], .home__list .league-wrap .name[data-v-572e1e16] {
+    font-size: 14px;
+    color: #fff;
+}
+		@media only screen and (min-width: 750px)
+.item .item_right .time[data-v-4f5d083e] {
+    width: 60px;
+}
+.item .item_right .time[data-v-4f5d083e] {
+    width: 32px;
+    font-size: 12px;
+    white-space: nowrap;
+    margin-right: 10px;
+    font-weight: 300;
+}
+.item .item_right .half-scores[data-v-4f5d083e], .item .item_right .scores[data-v-4f5d083e], .item .item_right .time[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+@media only screen and (min-width: 750px)
+.item .item_right .time[data-v-4f5d083e] {
+    width: 60px;
+}
+.item .item_right .time[data-v-4f5d083e] {
+    width: 32px;
+    font-size: 12px;
+    white-space: nowrap;
+    margin-right: 10px;
+    font-weight: 300;
+}
+.item .item_right .channel-sign .icon.is-tobe-active[data-v-4f5d083e] {
+    background-image: url(https://cfstatic1st.livesportstv.cc/img/3rd/channel.png);
+}
+.item .item_right .channel-sign .icon.is-tobe-active[data-v-4f5d083e] {
+    background-image: url(https://cfstatic1st.livesportstv.cc/img/3rd/channel.png);
+}
+.item .item_right .channel-sign .icon[data-v-4f5d083e] {
+    width: 16px;
+    height: 16px;
+    background-size: 16px;
+}
+.item .item_right .channel-sign .icon[data-v-4f5d083e] {
+    width: 16px;
+    height: 16px;
+    background-size: 16px;
+}
+@media only screen and (min-width: 750px)
+.item .item_right .half-scores[data-v-4f5d083e], .item .item_right .scores[data-v-4f5d083e] {
+    width: 32px;
+}
+.item .item_right .scores[data-v-4f5d083e] {
+    font-size: 16px;
+}
+.item .item_right .half-scores[data-v-4f5d083e], .item .item_right .scores[data-v-4f5d083e] {
+    width: 22px;
+    line-height: 28px;
+    white-space: nowrap;
+}
+.item .item_right .half-scores[data-v-4f5d083e], .item .item_right .scores[data-v-4f5d083e], .item .item_right .time[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+.item .item_right .half-scores[data-v-4f5d083e], .item .item_right .scores[data-v-4f5d083e], .item .item_right .time[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+}
+		.item .item_left .teams .away-team[data-v-4f5d083e], .item .item_left .teams .home-team[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.item .item_left .teams .away-team[data-v-4f5d083e], .item .item_left .teams .home-team[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.item .item_left .teams .away-team .away-logo[data-v-4f5d083e], .item .item_left .teams .away-team .home-logo[data-v-4f5d083e], .item .item_left .teams .home-team .away-logo[data-v-4f5d083e], .item .item_left .teams .home-team .home-logo[data-v-4f5d083e] {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+}
+.item .item_left .teams .away-team .away-logo[data-v-4f5d083e], .item .item_left .teams .away-team .home-logo[data-v-4f5d083e], .item .item_left .teams .home-team .away-logo[data-v-4f5d083e], .item .item_left .teams .home-team .home-logo[data-v-4f5d083e] {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+}
+img {
+    vertical-align: middle;
+}
+img {
+    border-style: none;
+}
+
+.item .item_right[data-v-4f5d083e] {
+    min-width: 130px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    color: #fff;
+}
+.item .item_right[data-v-4f5d083e] {
+    min-width: 130px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    color: #fff;
+}
+.item .item_left .teams .away-team .away-name[data-v-4f5d083e], .item .item_left .teams .away-team .home-name[data-v-4f5d083e], .item .item_left .teams .home-team .away-name[data-v-4f5d083e], .item .item_left .teams .home-team .home-name[data-v-4f5d083e] {
+    max-width: 155px;
+    font-size: 12px;
+    color: #fff;
+    margin-left: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+@media only screen and (min-width: 750px)
+.item .item_left .teams .away-team .away-name[data-v-4f5d083e], .item .item_left .teams .away-team .home-name[data-v-4f5d083e], .item .item_left .teams .home-team .away-name[data-v-4f5d083e], .item .item_left .teams .home-team .home-name[data-v-4f5d083e] {
+    max-width: 400px!important;
+}
+.item .item_left .teams .away-team .away-name[data-v-4f5d083e], .item .item_left .teams .away-team .home-name[data-v-4f5d083e], .item .item_left .teams .home-team .away-name[data-v-4f5d083e], .item .item_left .teams .home-team .home-name[data-v-4f5d083e] {
+    max-width: 155px;
+    font-size: 12px;
+    color: #fff;
+    margin-left: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.item .item_right[data-v-4f5d083e] {
+    min-width: 130px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    color: #fff;
+}
+.item .item_right[data-v-4f5d083e] {
+    min-width: 130px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    color: #fff;
+}
+@media only screen and (min-width: 750px)
+.item .item_right .channel-sign[data-v-4f5d083e] {
+    width: 60px;
+}
+.item .item_right .channel-sign[data-v-4f5d083e] {
+    width: 43px;
+    min-width: 43px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    padding-right: 12px;
+}
+@media only screen and (min-width: 750px)
+.item .item_right .channel-sign[data-v-4f5d083e] {
+    width: 60px;
+}
+.item .item_right .channel-sign[data-v-4f5d083e] {
+    width: 43px;
+    min-width: 43px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    padding-right: 12px;
+}
+@media only screen and (min-width: 750px)
+.item .item_right .channel-sign[data-v-4f5d083e] {
+    width: 60px;
+}
+.item .item_right .channel-sign[data-v-4f5d083e] {
+    width: 43px;
+    min-width: 43px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+    padding-right: 12px;
+}
+.item .item_right .channel-sign .icon.is-active[data-v-4f5d083e] {
+    background-image: url(https://cfstatic1st.livesportstv.cc/img/3rd/channel_h.png);
+}
+.item .item_right .channel-sign .icon.is-active[data-v-4f5d083e] {
+    background-image: url(https://cfstatic1st.livesportstv.cc/img/3rd/channel_h.png);
+}
+.item .item_right .channel-sign .icon[data-v-4f5d083e] {
+    width: 16px;
+    height: 16px;
+    background-size: 16px;
+}
+.item .item_right .channel-sign .icon[data-v-4f5d083e] {
+    width: 16px;
+    height: 16px;
+    background-size: 16px;
+}
+		.item .item_left .teams[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    line-height: 28px;
+}
+.item .item_left .teams[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    line-height: 28px;
+}
+		.item .item_left .collect .logo[data-v-4f5d083e] {
+    width: 16px;
+    height: 16px;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    background: url(https://cfstatic1st.livesportstv.cc/img/3rd/icon_collect_inactive.png);
+    background-size: 16px;
+    cursor: pointer;
+}
+.item .item_left .collect .logo[data-v-4f5d083e] {
+    width: 16px;
+    height: 16px;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    background: url(https://cfstatic1st.livesportstv.cc/img/3rd/icon_collect_inactive.png);
+    background-size: 16px;
+    cursor: pointer;
+}
+button, input {
+    outline: none;
+    border: none;
+}
+[type=button], [type=reset], [type=submit], button {
+    -webkit-appearance: button;
+}
+button, select {
+    text-transform: none;
+}
+button, input {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+}
+		.item .item_left .collect[data-v-4f5d083e] {
+    width: 48px;
+    min-width: 48px;
+    padding-left: 12px;
+}
+.item .item_left .collect[data-v-4f5d083e], .item .item_left[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.item .item_left .collect[data-v-4f5d083e] {
+    width: 48px;
+    min-width: 48px;
+    padding-left: 12px;
+}
+.item .item_left .collect[data-v-4f5d083e], .item .item_left[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+		.item .item_left .collect[data-v-4f5d083e], .item .item_left[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.item .item_left .collect[data-v-4f5d083e], .item .item_left[data-v-4f5d083e] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+		.home__list .home__litem[data-v-572e1e16]:not(:first-child) {
+    border-bottom: 1px solid hsla(0,0%,100%,.07);
+}
+.home__list .home__litem[data-v-572e1e16]:not(:first-child) {
+    border-bottom: 1px solid hsla(0,0%,100%,.07);
+}
+@media only screen and (min-width: 750px)
+.item[data-v-4f5d083e] {
+    height: 80px;
+}
+.item[data-v-4f5d083e] {
+    height: 68px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    background-color: #152f4f;
+}
+@media only screen and (min-width: 750px)
+.item[data-v-4f5d083e] {
+    height: 80px;
+}
+.item[data-v-4f5d083e] {
+    height: 68px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    background-color: #152f4f;
+}
+a {
+    text-decoration: none;
+    color: #191919;
+}
+a {
+    background-color: transparent;
+}
+*, :after, :before {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+style attribute {
+    --vh: 9.12px;
+}
+html {
+    box-sizing: border-box;
+    word-break: break-word;
+    font-family: system -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;
+    color: #191919;
+    line-height: 1.15;
+    font-size: 14px;
+}
+	.home__list .league-wrap[data-v-572e1e16] {
+    cursor: pointer;
+}
+.home__list .date-wrap[data-v-572e1e16], .home__list .league-wrap[data-v-572e1e16] {
+    height: 34px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    padding: 0 10px;
+    border-bottom: 1px solid hsla(0,0%,100%,.09);
+}
+.home__list .league-wrap[data-v-572e1e16] {
+    cursor: pointer;
+}
+.home__list .date-wrap[data-v-572e1e16], .home__list .league-wrap[data-v-572e1e16] {
+    height: 34px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    padding: 0 10px;
+    border-bottom: 1px solid hsla(0,0%,100%,.09);
+}@media only screen and (min-width: 750px)
+		.home__list[data-v-572e1e16] {
+			background-color: #000d1e;
+		}
+		.home__list[data-v-572e1e16] {
+			background-color: #000d1e;
+		}
+		@media only screen and (min-width: 750px)
+		.home__list[data-v-572e1e16] {
+			background-color: #000d1e;
+		}
+		.home__list[data-v-572e1e16] {
+			background-color: #000d1e;
+		}
+		*, :after, :before {
+			box-sizing: inherit;
+			margin: 0;
+			padding: 0;
+			-webkit-tap-highlight-color: transparent;
+			-ms-overflow-style: none;
+			scrollbar-width: none;
+		}
+		user agent stylesheet
+		div {
+			display: block;
+		}
+		style attribute {
+			--vh: 9.12px;
+		}
+		html {
+			box-sizing: border-box;
+			word-break: break-word;
+			font-family: system -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;
+			color: #191919;
+			line-height: 1.15;
+			font-size: 14px;
+		}
+		html {
+			line-height: 1.15;
+			-webkit-text-size-adjust: 100%;
+		}
+		*, :after, :before {
+			box-sizing: inherit;
+			margin: 0;
+			padding: 0;
+			-webkit-tap-highlight-color: transparent;
+			-ms-overflow-style: none;
+			scrollbar-width: none;
+		}
+		*, :after, :before {
+			box-sizing: inherit;
+			margin: 0;
+			padding: 0;
+			-webkit-tap-highlight-color: transparent;
+			-ms-overflow-style: none;
+			scrollbar-width: none;
+		}
+		::-webkit-scrollbar {
+			display: none;
+		}
