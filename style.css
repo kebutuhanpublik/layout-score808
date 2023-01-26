@@ -442,8 +442,7 @@ style attribute {
     --vh: 9.12px;
 }
 html {
-    box-sizing: border-box;
-    word-break: break-word;
+
     font-family: system -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;
     color: #191919;
     line-height: 1.15;
@@ -512,8 +511,6 @@ html {
 			--vh: 9.12px;
 		}
 		html {
-			box-sizing: border-box;
-			word-break: break-word;
 			font-family: system -apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;
 			color: #191919;
 			line-height: 1.15;
